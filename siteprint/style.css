@@ -1,0 +1,81 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+h1{
+  font-size: 50px;
+}
+.onestrh{
+  background: #ffffff;
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+  color: #7429e0
+}
+.colors{
+  color:#436465;
+  
+}
+p2 =   
+.colorp{
+  height: 100px;
+  
+}
+.red{
+  font-size: 5px ;
+  color: #ff0000;
+  font-size: 25px;
+}
+.ora{
+  color: #ffcc00;
+  font-size: 25px;
+}
+.yel{
+  color: rgb(242, 240, 52);
+  font-size: 25px;
+}
+.gre{
+  color: rgb(99, 215, 54);
+  font-size: 25px;
+}
+.blu{
+  color: rgb(52, 222, 242);
+  font-size: 25px;
+}
+.blud{
+  color: rgb(0, 96, 107);
+  font-size: 25px;
+}
+.pur{
+  color: rgb(164, 0, 255);
+  font-size: 25px;
+}
+.gra{
+  color: rgb(130, 130, 130);
+  font-size: 25px;
+}
+.bla{
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+.titlee{
+  text-align: center;
+  background: #925ba9;
+  color: #00dfff;
+  font-size: 40px;
+}
+.imgbox{
+  border: solid 3px;
+  border-color: black;
+  height: 330px;
+  justify-content:space-evenly;
+  display: flex;
+  color: black;
+  font-size: 25px;
+  background-color: #7353c8;
+  border-radius: 30px;
+}
